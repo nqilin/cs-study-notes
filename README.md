@@ -1,53 +1,61 @@
 # CS-Study-Notes
-A systematic collection of computer science study notes for freshman, focusing on Python/C++ programming and basic CS knowledge. All notes are supplemented with **mind maps designed by PS/AI** for intuitive understanding.
-> Suitable for basic knowledge consolidation, interview preparation and daily learning review.
+A systematic collection of computer science study notes for freshman, focusing on Python/C++ programming and basic CS knowledge. All notes are supplemented with runnable code examples and detailed explanations.
+
+This repository is regularly updated for systematic learning, and is designed to be clear for self-review, internship preparation and open-source sharing.
 
 ## 📚 Repository Structure
-The notes are classified by subject, with detailed subdirectories and code examples for each module.
-- Python/
-    Basic Syntax.md
-    Data Types & Operators.md
-    Control Flow.md
-    Functions & Classes.md
-    File Processing.md
-    Web Crawler.md
-- C++/
-    Basic Syntax.md
-    Variables & Pointers.md
-    Classes & Inheritance.md
-    STL Basic.md
-    File I/O.md
-- Computer Basics/
-    Data Structures.md
-    Algorithm Fundamentals.md
-    Computer Network.md
-    Operating System.md
-- Practice/
-    Class Exercise Code.md
-    Knowledge Summary.md
+### Python
+The most complete section so far, covering basic syntax for programming beginners.
+
+#### Finished Notes
+- [Print & Basic Data Types](Python/Print%20&%20Basic%20Data%20Types.md)
+  - print() function, basic data types (int, float, str, bool, None), type checking
+- [Variables & Operators](Python/Variables%20&%20Operators.md)
+  - Variable naming rules, assignment methods, arithmetic/comparison/logical/assignment operators
+- [Control Flow - Conditional Statements](Python/Control%20Flow%20-%20Conditional%20Statements.md)
+  - if, else, elif, nested conditions, coding standards for logical branches
+- [Control Flow - Loops (for & while)](Python/Control%20Flow%20-%20Loops%20(for%20&%20while).md)
+  - for loop with range(), while loop, break/continue, nested loops
+
+#### Planned Notes
+- List, Tuple, Dictionary & Set
+- Functions & Parameters
+- Error & Exception Handling
+- File I/O Basics
+
+### C++
+Planned modules:
+- Basic Syntax & Variables
+- Pointers & Memory
+- STL Containers
+- OOP Basics (Class, Inheritance)
+
+### Computer Basics
+- Data Structures (Array, Linked List, Stack, Queue)
+- Algorithm Fundamentals
+- Computer Network & OS Basic Concepts
 
 ## 🎯 Learning Objective
-- Master the core syntax and practical skills of Python (proficient) and C++ (basic);
-- Solidify the foundation of computer science (data structures, algorithms, etc.);
-- Form a systematic knowledge system and improve the ability of knowledge combing;
-- Provide clear and reusable study materials for future internship and job hunting.
+- Master core syntax of Python (proficient) and C++ (basic)
+- Build a solid computer science foundation
+- Form a systematic knowledge structure
+- Provide clean, reusable materials for technical interviews and project development
 
-## 📐 Design Integration
-Combine PS/AI design skills with technical learning to optimize the presentation of notes:
-- Design **mind maps** for key knowledge points (e.g. Python OOP, C++ inheritance) and store them in the corresponding directory;
-- Optimize the typesetting of notes with Markdown and design simple visual elements for key content;
-- Export high-definition design files (PNG/PDF) and associate them with the corresponding note files for easy viewing.
+## 📐 Design Integration (PS/AI)
+- Mind maps for key knowledge modules will be designed and attached to corresponding notes
+- Visual layout optimization for important knowledge points
 
-## 🔧 Technical Stack for Notes
+## 🔧 Tech Stack
 - Markdown: Note writing and typesetting
-- Python/C++: Code examples and practical verification
-- Photoshop/Illustrator: Mind map and visual design of key knowledge
-- Git/GitHub: Version control and note sharing
+- Python / C++: Code examples and verification
+- Git / GitHub: Version control and open-source sharing
+- Photoshop / Illustrator: Knowledge mind maps and visual design
 
 ## 📈 Update Plan
-- Update 1-2 knowledge points every day (focus on classroom learning content);
-- Supplement code examples while updating notes to achieve "theory + practice";
-- Update the mind map design of key modules in time (1 per week).
+- Update 1~2 knowledge points per day (based on daily study)
+- Review and optimize old notes every 7 days
+- Add mind maps and design materials weekly
 
 ## 📌 For Job & Cooperation
-These notes reflect my **systematic learning ability and basic computer literacy**, which is the foundation of all development work. I am willing to share open source notes and communicate with developers who have the same learning needs.
+This repo demonstrates my systematic learning ability and basic programming literacy.
+I welcome suggestions, discussions and potential cooperation related to CS basics and programming practice.
