@@ -16,9 +16,10 @@ The most complete section so far, covering basic syntax for programming beginner
   - if, else, elif, nested conditions, coding standards for logical branches
 - [Control Flow - Loops (for & while)](Python/Control%20Flow%20-%20Loops%20(for%20&%20while).md)
   - for loop with range(), while loop, break/continue, nested loops
+- [Data Structures - List Tuple Dict Set](Python/Data%20Structures%20-%20List%20Tuple%20Dict%20Set.md)
+  - Four core built-in data structures, mutability/order/duplication features, common operations and practical scenarios
 
 #### Planned Notes
-- List, Tuple, Dictionary & Set
 - Functions & Parameters
 - Error & Exception Handling
 - File I/O Basics
