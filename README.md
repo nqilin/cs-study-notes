@@ -57,6 +57,12 @@ Planned modules:
 - Review and optimize old notes every 7 days
 - Add mind maps and design materials weekly
 
+🔍 Weekly Review
+Weekly learning reports are stored in the root directory (e.g. week-1report.md), including:
+- Knowledge points mastered this week
+- Slow-to-learn content & improvement plans
+- Code/notes optimization records
+
 ## 📌 For Job & Cooperation
 This repo demonstrates my systematic learning ability and basic programming literacy.
 I welcome suggestions, discussions and potential cooperation related to CS basics and programming practice.
