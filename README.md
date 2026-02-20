@@ -7,7 +7,7 @@ This repository is regularly updated for systematic learning, and is designed to
 ### Python
 The most complete section so far, covering basic syntax for programming beginners.
 
-####✅ Finished Notes
+#### ✅ Finished Notes
 - [Print & Basic Data Types](Python/Print%20&%20Basic%20Data%20Types.md)
   - print() function, basic data types (int, float, str, bool, None), type checking
 - [Variables & Operators](Python/Variables%20&%20Operators.md)
@@ -19,7 +19,7 @@ The most complete section so far, covering basic syntax for programming beginner
 - [Data Structures - List Tuple Dict Set](Python/Data%20Structures%20-%20List%20Tuple%20Dict%20Set.md)
   - Four core built-in data structures, mutability/order/duplication features, common operations and practical scenarios
 
-####🔄 Planned Notes
+#### 🔄 Planned Notes
 - Functions & Parameters
 - Error & Exception Handling
 - File I/O Basics
@@ -31,11 +31,11 @@ Planned modules:
 - STL Containers
 - OOP Basics (Class, Inheritance)
 
-####✅ Finished Notes:
+#### ✅ Finished Notes:
 - [Basic Syntax & Variables](C++/01-Basic_Syntax_Variables.md)
 - [Pointers & Memory](C++/02-Pointers_Memory.md)
 
-####🔄 Planned Notes:
+#### 🔄 Planned Notes:
 - STL Containers
 - OOP Basics (Class, Inheritance)
 
