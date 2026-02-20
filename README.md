@@ -18,6 +18,12 @@ The most complete section so far, covering basic syntax for programming beginner
   - for loop with range(), while loop, break/continue, nested loops
 - [Data Structures - List Tuple Dict Set](Python/Data%20Structures%20-%20List%20Tuple%20Dict%20Set.md)
   - Four core built-in data structures, mutability/order/duplication features, common operations and practical scenarios
+- [Functions & Parameters](Python/Functions%20%26%20Parameters.md)
+  - Function definition, positional/keyword/default arguments, return values, variable scope, lambda functions
+- [Error Exception Handling](Python/Error%20Exception%20Handling.md)
+  - try-except-else-finally blocks, common built-in exceptions, raising custom exceptions, error handling best practices
+- [File Input/Output Basics](Python/File-IO%20Basics.md)
+  - File opening/closing modes, reading/writing text/binary files, with statement for safe I/O, common file-related exceptions
 
 #### 🔄 Planned Notes
 - Functions & Parameters
