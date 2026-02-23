@@ -1,82 +1,92 @@
-# CS-Study-Notes
-A systematic collection of computer science study notes for freshman, focusing on Python/C++ programming and basic CS knowledge. All notes are supplemented with runnable code examples and detailed explanations.
+# CS Learning Notes
 
-This repository is regularly updated for systematic learning, and is designed to be clear for self-review, internship preparation and open-source sharing.
+A complete, structured collection of computer science fundamentals, implemented and explained in Python & C++.  
+Built for learning, interview preparation, and building a strong GitHub portfolio.
 
-## 📚 Repository Structure
-### Python
-The most complete section so far, covering basic syntax for programming beginners.
+---
 
-#### ✅ Finished Notes
-- [Print & Basic Data Types](Python/Print%20&%20Basic%20Data%20Types.md)
-  - print() function, basic data types (int, float, str, bool, None), type checking
-- [Variables & Operators](Python/Variables%20&%20Operators.md)
-  - Variable naming rules, assignment methods, arithmetic/comparison/logical/assignment operators
-- [Control Flow - Conditional Statements](Python/Control%20Flow%20-%20Conditional%20Statements.md)
-  - if, else, elif, nested conditions, coding standards for logical branches
-- [Control Flow - Loops (for & while)](Python/Control%20Flow%20-%20Loops%20(for%20&%20while).md)
-  - for loop with range(), while loop, break/continue, nested loops
-- [Data Structures - List Tuple Dict Set](Python/Data%20Structures%20-%20List%20Tuple%20Dict%20Set.md)
-  - Four core built-in data structures, mutability/order/duplication features, common operations and practical scenarios
-- [Functions & Parameters](Python/Functions%20%26%20Parameters.md)
-  - Function definition, positional/keyword/default arguments, return values, variable scope, lambda functions
-- [Error Exception Handling](Python/Error%20Exception%20Handling.md)
-  - try-except-else-finally blocks, common built-in exceptions, raising custom exceptions, error handling best practices
-- [File Input/Output Basics](Python/File-IO%20Basics.md)
-  - File opening/closing modes, reading/writing text/binary files, with statement for safe I/O, common file-related exceptions
+## 📚 Contents
 
-#### 🔄 Planned Notes
+### 🐍 Python
+- Python Basics
 - Functions & Parameters
 - Error & Exception Handling
 - File I/O Basics
 
-### C++
-Planned modules:
+### 🧠 C++
 - Basic Syntax & Variables
-- Pointers & Memory
+- Pointers & Memory Management
 - STL Containers
 - OOP Basics (Class, Inheritance)
 
-#### ✅ Finished Notes:
-- [Basic Syntax & Variables](C++/01-Basic_Syntax_Variables.md)
-- [Pointers & Memory](C++/02-Pointers_Memory.md)
+### 🧩 Computer Science Fundamentals
+- Data Structures: Array & Linked List
+- Data Structures: Stack & Queue
+- Data Structures: Tree & Graph
+- Algorithm Fundamentals: Sorting & Searching
+- Operating System Basics
+- Computer Network Basics
+- Database Basics
+- Web Development Basics
+- Software Engineering Basics
+- Git & GitHub Basics
 
-#### 🔄 Planned Notes:
-- STL Containers
-- OOP Basics (Class, Inheritance)
+---
 
-### Computer Basics
-- Data Structures (Array, Linked List, Stack, Queue)
-- Algorithm Fundamentals
-- Computer Network & OS Basic Concepts
+## 🎯 Goals
+- Build a solid foundation in computer science
+- Prepare for coding interviews
+- Write clean, understandable code
+- Maintain a professional GitHub portfolio
 
-## 🎯 Learning Objective
-- Master core syntax of Python (proficient) and C++ (basic)
-- Build a solid computer science foundation
-- Form a systematic knowledge structure
-- Provide clean, reusable materials for technical interviews and project development
+---
 
-## 📐 Design Integration (PS/AI)
-- Mind maps for key knowledge modules will be designed and attached to corresponding notes
-- Visual layout optimization for important knowledge points
+## 🛠 Languages & Tools
+- Python
+- C++
+- Git & GitHub
+- Data Structures & Algorithms
+- OS, Networks, Databases
 
-## 🔧 Tech Stack
-- Markdown: Note writing and typesetting
-- Python / C++: Code examples and verification
-- Git / GitHub: Version control and open-source sharing
-- Photoshop / Illustrator: Knowledge mind maps and visual design
+---
 
-## 📈 Update Plan
-- Update 1~2 knowledge points per day (based on daily study)
-- Review and optimize old notes every 7 days
-- Add mind maps and design materials weekly
+## 📌 Who is this for?
+- Computer science students
+- Coding beginners
+- Interview candidates
+- Anyone who wants a clear, structured CS study guide
 
-🔍 Weekly Review
-Weekly learning reports are stored in the root directory (e.g. week-1report.md), including:
-- Knowledge points mastered this week
-- Slow-to-learn content & improvement plans
-- Code/notes optimization records
+---
 
-## 📌 For Job & Cooperation
-This repo demonstrates my systematic learning ability and basic programming literacy.
-I welcome suggestions, discussions and potential cooperation related to CS basics and programming practice.
+## 📂 Repository Structure
+```
+CS-Learning-Notes/
+├── Python/
+├── C++/
+├── Computer-Science/
+└── README.md
+```
+
+---
+
+## ✨ Features
+- Clear explanations
+- Runable code examples
+- Standard interview questions included
+- Clean, consistent formatting
+- Continuous updates
+
+---
+
+## 📬 Contact & Contributions
+Feel free to fork, star, or share!  
+If you have any questions or suggestions, you can open an issue or contact me.
+
+---
+
+### ⭐ If you find this helpful, please give it a star!
+
+
+---
+
+⭐ Star this repo if it helps you!
