@@ -35,4 +35,3 @@ It is mainly used for processing custom rules, expressions and simple script syn
 
 ## Summary
 The interpreter pattern is a professional rule parsing solution, suitable for lightweight custom syntax and business rule interpretation scenarios.
-20-Design-Patterns/17-Iterator-Pattern.md
